@@ -68,7 +68,7 @@ public class Staff {
     }
 
     public Staff(String id, String name , String gender , String position, BigDecimal salary , boolean status){
-        this.id = id;
+//        this.id = id;
         this.name= name;
         this.gender = gender;
         this.position = position;
